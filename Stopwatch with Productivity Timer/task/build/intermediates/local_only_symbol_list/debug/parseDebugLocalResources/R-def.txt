@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable timer_svgrepo_com
+id mainLayout
+id progressBar
+id resetButton
+id settingsButton
+id startButton
+id textView
+id upperLimitEditText
+layout activity_main
+layout popup
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string ex_3
+string reset_button
+string settings
+string start_button
+string timer
+style AppTheme

@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/andresurrutia/.gradle/daemon/8.10/org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-debug-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/andresurrutia/.gradle/daemon/8.10/org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/andresurrutia/.gradle/daemon/8.10/org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-debug-32:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/andresurrutia/.gradle/daemon/8.10/org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-pngs-28:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-debug-32:/drawable-hdpi_timer_svgrepo_com.png.flat",
+        "source": "org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-pngs-28:/drawable-hdpi/timer_svgrepo_com.png"
+    },
+    {
+        "merged": "/Users/andresurrutia/.gradle/daemon/8.10/org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-debug-32:/layout_activity_main.xml.flat",
+        "source": "/Users/andresurrutia/.gradle/daemon/8.10/org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-debug-32:/drawable-anydpi-v24_timer_svgrepo_com.xml.flat",
+        "source": "org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-pngs-28:/drawable-anydpi-v24/timer_svgrepo_com.xml"
+    },
+    {
+        "merged": "/Users/andresurrutia/.gradle/daemon/8.10/org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-debug-32:/layout_popup.xml.flat",
+        "source": "/Users/andresurrutia/.gradle/daemon/8.10/org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-main-34:/layout/popup.xml"
+    },
+    {
+        "merged": "/Users/andresurrutia/.gradle/daemon/8.10/org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-debug-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/andresurrutia/.gradle/daemon/8.10/org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-debug-32:/drawable-mdpi_timer_svgrepo_com.png.flat",
+        "source": "org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-pngs-28:/drawable-mdpi/timer_svgrepo_com.png"
+    },
+    {
+        "merged": "org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-debug-32:/drawable-xxhdpi_timer_svgrepo_com.png.flat",
+        "source": "org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-pngs-28:/drawable-xxhdpi/timer_svgrepo_com.png"
+    },
+    {
+        "merged": "org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-debug-32:/drawable-xhdpi_timer_svgrepo_com.png.flat",
+        "source": "org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-pngs-28:/drawable-xhdpi/timer_svgrepo_com.png"
+    },
+    {
+        "merged": "/Users/andresurrutia/.gradle/daemon/8.10/org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-debug-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/andresurrutia/.gradle/daemon/8.10/org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-debug-32:/drawable-ldpi_timer_svgrepo_com.png.flat",
+        "source": "org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-pngs-28:/drawable-ldpi/timer_svgrepo_com.png"
+    },
+    {
+        "merged": "org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-debug-32:/drawable-xxxhdpi_timer_svgrepo_com.png.flat",
+        "source": "org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-pngs-28:/drawable-xxxhdpi/timer_svgrepo_com.png"
+    }
+]
